@@ -1,0 +1,9 @@
+*.pyc
+*.egg-info
+/*
+!/src
+!/.gitignore
+!/README.md
+!/README.src.md
+!/readme_nto.py
+!/setup.py
